@@ -1,18 +1,18 @@
 # Name of the Distro to build (full name, without special characters)
-  DISTRONAME="LibreELEC"
+  DISTRONAME="Tune"
 
 # short project description
-  DESCRIPTION="LibreELEC is a fast and user-friendly Kodi media centre distribution."
+  DESCRIPTION="Hookcell Tune is a fast and user-friendly media centre distribution."
 
 # Welcome Message for e.g. SSH Server (up to 5 Lines)
   GREETING0="##############################################"
-  GREETING1="#                 LibreELEC                  #"
-  GREETING2="#            http://libreelec.tv             #"
+  GREETING1="#                 Hookcell Tune              #"
+  GREETING2="#            http://hookcellcom/tune         #"
   GREETING3="##############################################"
   GREETING4=""
 
 # Root password to integrate in the target system
-  ROOT_PASSWORD="libreelec"
+  ROOT_PASSWORD="12345"
 
 # Install glibc locales to the build (yes / no)
   GLIBC_LOCALES="yes"
